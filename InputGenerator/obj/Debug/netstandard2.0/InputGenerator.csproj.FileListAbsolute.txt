@@ -1,0 +1,10 @@
+C:\Code\Projects\InputCodeGenerator\InputGenerator\bin\Debug\netstandard2.0\InputGenerator.deps.json
+C:\Code\Projects\InputCodeGenerator\InputGenerator\bin\Debug\netstandard2.0\InputGenerator.dll
+C:\Code\Projects\InputCodeGenerator\InputGenerator\bin\Debug\netstandard2.0\InputGenerator.pdb
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.csproj.AssemblyReference.cache
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.AssemblyInfoInputs.cache
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.AssemblyInfo.cs
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.csproj.CoreCompileInputs.cache
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.dll
+C:\Code\Projects\InputCodeGenerator\InputGenerator\obj\Debug\netstandard2.0\InputGenerator.pdb
